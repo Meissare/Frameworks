@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diseño No Responsivo Fijo</title>
+    <link rel="stylesheet" href="estilos-fijos.css">
+</head>
+<body>
+    <div class="contenedor-principal">
+        <h1>Mi Sitio Web Fijo</h1>
+        <p>Este contenido tiene un ancho fijo y no se adapta a diferentes tamaños de pantalla.</p>
+        <div class="columna">
+            <h2>Sección 1</h2>
+            <p>Contenido de la primera columna. Usa píxeles para todo.</p>
+        </div>
+        <div class="columna">
+            <h2>Sección 2</h2>
+            <p>Contenido de la segunda columna. ¡Diseño fijo!</p>
+        </div>
+        <div class="pie-pagina">
+            <p>&copy; 2025 Mi Sitio Fijo</p>
+        </div>
+    </div>
+</body>
+</html>
